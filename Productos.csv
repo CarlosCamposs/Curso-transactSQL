@@ -1,0 +1,143 @@
+ProductID,Name,ProductNumber
+707,"Sport-100 Helmet, Red",HL-U509-R
+708,"Sport-100 Helmet, Black",HL-U509
+711,"Sport-100 Helmet, Blue",HL-U509-B
+712,AWC Logo Cap,CA-1098
+714,"Long-Sleeve Logo Jersey, M",LJ-0192-M
+715,"Long-Sleeve Logo Jersey, L",LJ-0192-L
+716,"Long-Sleeve Logo Jersey, XL",LJ-0192-X
+717,"HL Road Frame - Red, 62",FR-R92R-62
+718,"HL Road Frame - Red, 44",FR-R92R-44
+722,"LL Road Frame - Black, 58",FR-R38B-58
+738,"LL Road Frame - Black, 52",FR-R38B-52
+739,"HL Mountain Frame - Silver, 42",FR-M94S-42
+742,"HL Mountain Frame - Silver, 46",FR-M94S-46
+743,"HL Mountain Frame - Black, 42",FR-M94B-42
+747,"HL Mountain Frame - Black, 38",FR-M94B-38
+748,"HL Mountain Frame - Silver, 38",FR-M94S-38
+779,"Mountain-200 Silver, 38",BK-M68S-38
+780,"Mountain-200 Silver, 42",BK-M68S-42
+781,"Mountain-200 Silver, 46",BK-M68S-46
+782,"Mountain-200 Black, 38",BK-M68B-38
+783,"Mountain-200 Black, 42",BK-M68B-42
+784,"Mountain-200 Black, 46",BK-M68B-46
+792,"Road-250 Red, 58",BK-R89R-58
+793,"Road-250 Black, 44",BK-R89B-44
+794,"Road-250 Black, 48",BK-R89B-48
+795,"Road-250 Black, 52",BK-R89B-52
+796,"Road-250 Black, 58",BK-R89B-58
+797,"Road-550-W Yellow, 38",BK-R64Y-38
+798,"Road-550-W Yellow, 40",BK-R64Y-40
+799,"Road-550-W Yellow, 42",BK-R64Y-42
+800,"Road-550-W Yellow, 44",BK-R64Y-44
+801,"Road-550-W Yellow, 48",BK-R64Y-48
+808,LL Mountain Handlebars,HB-M243
+809,ML Mountain Handlebars,HB-M763
+810,HL Mountain Handlebars,HB-M918
+813,HL Road Handlebars,HB-R956
+822,"ML Road Frame-W - Yellow, 38",FR-R72Y-38
+835,"ML Road Frame-W - Yellow, 44",FR-R72Y-44
+836,"ML Road Frame-W - Yellow, 48",FR-R72Y-48
+838,"HL Road Frame - Black, 44",FR-R92B-44
+858,"Half-Finger Gloves, S",GL-H102-S
+859,"Half-Finger Gloves, M",GL-H102-M
+860,"Half-Finger Gloves, L",GL-H102-L
+864,"Classic Vest, S",VE-C304-S
+865,"Classic Vest, M",VE-C304-M
+867,"Women's Mountain Shorts, S",SH-W890-S
+868,"Women's Mountain Shorts, M",SH-W890-M
+869,"Women's Mountain Shorts, L",SH-W890-L
+870,Water Bottle - 30 oz.,WB-H098
+873,Patch Kit/8 Patches,PK-7098
+874,"Racing Socks, M",SO-R809-M
+875,"Racing Socks, L",SO-R809-L
+876,Hitch Rack - 4-Bike,RA-H123
+877,Bike Wash - Dissolver,CL-9009
+880,Hydration Pack - 70 oz.,HY-1023-70
+881,"Short-Sleeve Classic Jersey, S",SJ-0194-S
+883,"Short-Sleeve Classic Jersey, L",SJ-0194-L
+884,"Short-Sleeve Classic Jersey, XL",SJ-0194-X
+885,"HL Touring Frame - Yellow, 60",FR-T98Y-60
+886,"LL Touring Frame - Yellow, 62",FR-T67Y-62
+889,"HL Touring Frame - Yellow, 54",FR-T98Y-54
+891,"HL Touring Frame - Blue, 50",FR-T98U-50
+892,"HL Touring Frame - Blue, 54",FR-T98U-54
+893,"HL Touring Frame - Blue, 60",FR-T98U-60
+894,Rear Derailleur,RD-2308
+895,"LL Touring Frame - Blue, 50",FR-T67U-50
+896,"LL Touring Frame - Blue, 54",FR-T67U-54
+899,"LL Touring Frame - Yellow, 44",FR-T67Y-44
+900,"LL Touring Frame - Yellow, 50",FR-T67Y-50
+904,"ML Mountain Frame-W - Silver, 40",FR-M63S-40
+905,"ML Mountain Frame-W - Silver, 42",FR-M63S-42
+907,Rear Brakes,RB-9231
+908,LL Mountain Seat/Saddle,SE-M236
+909,ML Mountain Seat/Saddle,SE-M798
+910,HL Mountain Seat/Saddle,SE-M940
+913,HL Road Seat/Saddle,SE-R995
+916,HL Touring Seat/Saddle,SE-T924
+917,"LL Mountain Frame - Silver, 42",FR-M21S-42
+918,"LL Mountain Frame - Silver, 44",FR-M21S-44
+920,"LL Mountain Frame - Silver, 52",FR-M21S-52
+924,"LL Mountain Frame - Black, 42",FR-M21B-42
+925,"LL Mountain Frame - Black, 44",FR-M21B-44
+926,"LL Mountain Frame - Black, 48",FR-M21B-48
+935,LL Mountain Pedal,PD-M282
+936,ML Mountain Pedal,PD-M340
+937,HL Mountain Pedal,PD-M562
+938,LL Road Pedal,PD-R347
+939,ML Road Pedal,PD-R563
+940,HL Road Pedal,PD-R853
+944,"LL Mountain Frame - Silver, 40",FR-M21S-40
+945,Front Derailleur,FD-2342
+947,HL Touring Handlebars,HB-T928
+948,Front Brakes,FB-9873
+949,LL Crankset,CS-4759
+951,HL Crankset,CS-9183
+952,Chain,CH-0234
+953,"Touring-2000 Blue, 60",BK-T44U-60
+954,"Touring-1000 Yellow, 46",BK-T79Y-46
+955,"Touring-1000 Yellow, 50",BK-T79Y-50
+956,"Touring-1000 Yellow, 54",BK-T79Y-54
+957,"Touring-1000 Yellow, 60",BK-T79Y-60
+958,"Touring-3000 Blue, 54",BK-T18U-54
+959,"Touring-3000 Blue, 58",BK-T18U-58
+960,"Touring-3000 Blue, 62",BK-T18U-62
+961,"Touring-3000 Yellow, 44",BK-T18Y-44
+962,"Touring-3000 Yellow, 50",BK-T18Y-50
+963,"Touring-3000 Yellow, 54",BK-T18Y-54
+964,"Touring-3000 Yellow, 58",BK-T18Y-58
+965,"Touring-3000 Yellow, 62",BK-T18Y-62
+966,"Touring-1000 Blue, 46",BK-T79U-46
+967,"Touring-1000 Blue, 50",BK-T79U-50
+968,"Touring-1000 Blue, 54",BK-T79U-54
+969,"Touring-1000 Blue, 60",BK-T79U-60
+970,"Touring-2000 Blue, 46",BK-T44U-46
+971,"Touring-2000 Blue, 50",BK-T44U-50
+972,"Touring-2000 Blue, 54",BK-T44U-54
+973,"Road-350-W Yellow, 40",BK-R79Y-40
+974,"Road-350-W Yellow, 42",BK-R79Y-42
+975,"Road-350-W Yellow, 44",BK-R79Y-44
+976,"Road-350-W Yellow, 48",BK-R79Y-48
+977,"Road-750 Black, 58",BK-R19B-58
+978,"Touring-3000 Blue, 44",BK-T18U-44
+979,"Touring-3000 Blue, 50",BK-T18U-50
+980,"Mountain-400-W Silver, 38",BK-M38S-38
+981,"Mountain-400-W Silver, 40",BK-M38S-40
+982,"Mountain-400-W Silver, 42",BK-M38S-42
+983,"Mountain-400-W Silver, 46",BK-M38S-46
+984,"Mountain-500 Silver, 40",BK-M18S-40
+985,"Mountain-500 Silver, 42",BK-M18S-42
+986,"Mountain-500 Silver, 44",BK-M18S-44
+987,"Mountain-500 Silver, 48",BK-M18S-48
+988,"Mountain-500 Silver, 52",BK-M18S-52
+989,"Mountain-500 Black, 40",BK-M18B-40
+990,"Mountain-500 Black, 42",BK-M18B-42
+991,"Mountain-500 Black, 44",BK-M18B-44
+992,"Mountain-500 Black, 48",BK-M18B-48
+993,"Mountain-500 Black, 52",BK-M18B-52
+994,LL Bottom Bracket,BB-7421
+996,HL Bottom Bracket,BB-9108
+997,"Road-750 Black, 44",BK-R19B-44
+998,"Road-750 Black, 48",BK-R19B-48
+999,"Road-750 Black, 52",BK-R19B-52

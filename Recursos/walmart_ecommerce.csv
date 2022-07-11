@@ -1,0 +1,446 @@
+Product_Id,Precio_de_lista,Precio_con_Descuento,Marca,Categoria,Disponibilidad
+1,7.65,7.65,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+2,8.98,8.98,Caroline's Treasures,Office|Retail Essentials|Name Badges & Lanyards,TRUE
+3,8.98,8.98,Caroline's Treasures,Office|Labels & Label Makers|Labels|All Labels & Stickers,TRUE
+4,8.98,8.98,Caroline's Treasures,Office|Labels & Label Makers|Labels|All Labels & Stickers,TRUE
+5,9.87,9.87,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+6,10.46,10.46,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+7,10.59,10.59,Caroline's Treasures,Office|Notebooks & Pads|Sticky Notes,TRUE
+8,10.84,10.84,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+9,14,11.59,Caroline's Treasures,Beauty|Makeup|Tools & Accessories,TRUE
+10,11.72,11.72,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+11,12.59,12.59,Caroline's Treasures,Electronics|Computers|Computer Accessories|Computer Keyboards & Mice|Computer Mouse & Mouse Pads|Mouse Pads & Wrist Rests,TRUE
+12,12.59,12.59,Caroline's Treasures,Electronics|Computers|Computer Accessories|Computer Keyboards & Mice|Computer Mouse & Mouse Pads|Mouse Pads & Wrist Rests,TRUE
+13,12.9,12.9,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+14,12.9,12.9,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+15,12.9,12.9,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+16,12.9,12.9,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+17,12.99,12.99,Vickerman,,TRUE
+18,13.52,13.52,Caroline's Treasures,Cell Phones|Cellphone Accessories|Cases & Protectors|Cell Phone Cases,TRUE
+19,13.55,13.55,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+20,13.62,13.62,Pantene,Beauty|Hair Care|Conditioner,TRUE
+21,13.99,13.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+22,13.99,13.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+23,13.99,13.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+24,13.99,13.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+25,13.99,13.99,Vickerman,,TRUE
+26,13.99,13.99,Vickerman,,TRUE
+27,13.99,13.99,Vickerman,,TRUE
+28,14.47,14.47,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+29,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+30,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+31,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+32,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+33,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+34,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+35,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+36,14.99,14.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+37,14.99,14.99,Vickerman,,FALSE
+38,15.85,15.85,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+39,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+40,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+41,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+42,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+43,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+44,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+45,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+46,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+47,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+48,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+49,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,TRUE
+50,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+51,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+52,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+53,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+54,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+55,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+56,15.99,15.99,Victoria Klein,Health|Home Health Care|Daily Living Aids,FALSE
+57,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+58,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+59,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+60,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+61,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+62,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+63,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+64,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+65,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+66,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+67,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+68,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+69,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+70,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+71,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+72,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+73,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+74,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+75,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+76,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+77,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+78,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+79,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+80,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+81,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+82,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+83,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+84,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+85,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+86,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+87,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+88,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+89,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+90,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+91,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+92,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+93,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+94,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+95,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+96,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+97,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+98,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+99,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+100,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+101,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+102,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+103,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+104,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+105,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,FALSE
+106,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+107,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+108,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+109,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+110,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+111,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+112,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+113,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+114,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+115,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+116,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+117,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+118,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+119,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+120,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+121,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+122,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+123,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+124,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+125,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+126,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+127,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+128,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+129,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+130,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+131,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+132,15.99,15.99,Elegant Comfort,Home|Toddler|Toddler Bedding|Toddler Bedding Sets & Sheets,TRUE
+133,15.99,15.99,Vickerman,,TRUE
+134,15.99,15.99,Vickerman,,TRUE
+135,15.99,15.99,Vickerman,,TRUE
+136,16.59,16.59,Caroline's Treasures,Beauty|Hair Care|Styling Accessories|Hair Clips,TRUE
+137,16.82,16.82,Vickerman,,FALSE
+138,16.95,16.95,Buckle Down,,TRUE
+139,16.98,16.98,Caroline's Treasures,Home|Kitchen & Dining|Kitchen Storage & Organization|Counter Organizers,TRUE
+140,16.99,16.99,Vickerman,,TRUE
+141,17.89,17.89,Vickerman,,TRUE
+142,17.89,17.89,Vickerman,,TRUE
+143,22,17.97,Caroline's Treasures,Baby|Feeding|Bib & Burp Cloth Sets,TRUE
+144,17.99,17.99,Vickerman,,TRUE
+145,22.88,17.99,Vickerman,,TRUE
+146,18.71,18.71,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+147,18.71,18.71,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+148,18.71,18.71,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+149,28.93,18.9,Trevco,Clothing|Kids Clothing|Girls Clothing|Toddler Girls Clothing|Toddler Girls Tops & T-Shirts|Toddler Girls Graphic Tees,TRUE
+150,28.93,18.9,Trevco,Clothing|Kids Clothing|Girls Clothing|Toddler Girls Clothing|Toddler Girls Tops & T-Shirts|Toddler Girls Graphic Tees,TRUE
+151,18.95,18.95,Caroline's Treasures,Baby|Feeding|Bibs and Burp Cloths,FALSE
+152,18.99,18.99,Vickerman,,TRUE
+153,19.14,19.14,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+154,19.95,19.95,Buckle Down,,TRUE
+155,20.23,20.23,Vickerman,,TRUE
+156,20.23,20.23,Vickerman,,TRUE
+157,20.23,20.23,Vickerman,,TRUE
+158,20.79,20.79,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+159,21.72,21.72,TerraVita,Health|Vitamins & Supplements|Homeopathic Remedies|All Homeopathic Remedies,TRUE
+160,21.95,21.95,Buckle Down,,TRUE
+161,21.98,21.98,Vickerman,,TRUE
+162,21.99,21.99,Trevco,Clothing|Men|Mens T-Shirts & Tank Tops|Mens T-Shirts,TRUE
+163,22.88,22.88,Vickerman,,TRUE
+164,22.88,22.88,Vickerman,,TRUE
+165,22.88,22.88,Vickerman,,TRUE
+166,22.88,22.88,Vickerman,,TRUE
+167,22.88,22.88,Vickerman,,TRUE
+168,22.88,22.88,Vickerman,,TRUE
+169,22.88,22.88,Vickerman,,TRUE
+170,22.88,22.88,Vickerman,,TRUE
+171,22.88,22.88,Vickerman,,TRUE
+172,22.88,22.88,Vickerman,,TRUE
+173,22.88,22.88,Vickerman,,TRUE
+174,22.88,22.88,Vickerman,,TRUE
+175,22.88,22.88,Vickerman,,TRUE
+176,22.88,22.88,Vickerman,,TRUE
+177,22.88,22.88,Vickerman,,TRUE
+178,22.88,22.88,Vickerman,,TRUE
+179,22.88,22.88,Vickerman,,TRUE
+180,22.88,22.88,Vickerman,,TRUE
+181,22.88,22.88,Vickerman,,FALSE
+182,22.99,22.99,Vickerman,,TRUE
+183,22.99,22.99,Vickerman,,TRUE
+184,22.99,22.99,Vickerman,,TRUE
+185,22.99,22.99,Vickerman,,TRUE
+186,23.42,23.42,TerraVita,"Food|Condiments, Sauces & Spices|Salt, Spices & Seasoning",TRUE
+187,25.99,23.99,Vickerman,,TRUE
+188,24.18,24.18,Vickerman,,TRUE
+189,24.29,24.29,TerraVita,"Food|Condiments, Sauces & Spices|Salt, Spices & Seasoning",TRUE
+190,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+191,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+192,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+193,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+194,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+195,24.95,24.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+196,24.95,24.95,Buckle Down,Musical Instruments|Instrument Accessories|Guitar Accessories|Guitar Straps,TRUE
+197,26.7,26.7,Vickerman,,TRUE
+198,26.7,26.7,Vickerman,,TRUE
+199,26.7,26.7,Vickerman,,TRUE
+200,26.7,26.7,Vickerman,,TRUE
+201,26.7,26.7,Vickerman,,TRUE
+202,26.7,26.7,Vickerman,,TRUE
+203,26.7,26.7,Vickerman,,TRUE
+204,26.7,26.7,Vickerman,,TRUE
+205,26.7,26.7,Vickerman,,TRUE
+206,26.7,26.7,Vickerman,,TRUE
+207,26.99,26.99,Vickerman,,TRUE
+208,26.99,26.99,Vickerman,,TRUE
+209,28.8,28.8,TerraVita,Health|Vitamins & Supplements|Homeopathic Remedies|All Homeopathic Remedies,TRUE
+210,28.95,28.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+211,28.95,28.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+212,28.95,28.95,Buckle Down,Pets|Dogs|Dog Collars & Leashes,TRUE
+213,29.95,29.95,Trevco,Clothing|Juniors|Juniors Tops & T-Shirts|Juniors Tank Tops,TRUE
+214,29.95,29.95,Trevco,Clothing|Juniors|Juniors Tops & T-Shirts|Juniors Tank Tops,TRUE
+215,29.95,29.95,Trevco,Clothing|Juniors|Juniors Tops & T-Shirts|Juniors Tank Tops,TRUE
+216,29.95,29.95,Trevco,Clothing|Juniors|Juniors Tops & T-Shirts|Juniors Tank Tops,TRUE
+217,29.95,29.95,Trevco,Clothing|Juniors|Juniors Tops & T-Shirts|Juniors Tank Tops,TRUE
+218,35.99,35.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+219,39.9,39.9,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+220,39.99,39.99,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+221,39.99,39.99,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+222,40,40,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+223,41.5,41.5,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+224,42,42,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+225,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+226,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+227,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+228,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+229,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+230,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+231,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+232,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+233,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+234,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+235,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+236,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+237,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+238,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+239,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+240,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+241,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+242,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+243,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+244,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+245,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+246,42.08,42.08,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+247,42.99,42.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+248,42.99,42.99,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+249,87.99,43.53,HP,Office|Paper|All Paper & Printable Media,FALSE
+250,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+251,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+252,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+253,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+254,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+255,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+256,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+257,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+258,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+259,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+260,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+261,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+262,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+263,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+264,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+265,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+266,44.55,44.55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+267,45.53,45.53,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+268,46.88,46.88,Pantene,Personal Care|Bath & Body|Body Lotions & Creams,TRUE
+269,48.2,48.2,TerraVita,Health|Vitamins & Supplements|Homeopathic Remedies|All Homeopathic Remedies,TRUE
+270,48.2,48.2,TerraVita,Health|Vitamins & Supplements|Homeopathic Remedies|All Homeopathic Remedies,TRUE
+271,49.5,49.5,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+272,99,49.5,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+273,49.5,49.5,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+274,55,49.5,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+275,51.81,51.81,TerraVita,Health|Vitamins & Supplements|Homeopathic Remedies|All Homeopathic Remedies,TRUE
+276,55,55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+277,55,55,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+278,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+279,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+280,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+281,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+282,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+283,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+284,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+285,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+286,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+287,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+288,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+289,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+290,55.99,55.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+291,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+292,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+293,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+294,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+295,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+296,57.99,57.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+297,58.99,58.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+298,59.99,59.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+299,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+300,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+301,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+302,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+303,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+304,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+305,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+306,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+307,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+308,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,TRUE
+309,60,60,Aviana,Clothing|Women|Womens Lingerie & Shapewear|Womens Bras|Bras,FALSE
+310,60.45,60.45,TerraVita,Food|Beverages|Tea|Tea Bags,TRUE
+311,62.99,62.99,Ebern Designs,"Food|Condiments, Sauces & Spices|Salad Dressings & Toppings",TRUE
+312,71,71,HP,Electronics|Computers|Computer Components|Motherboards,FALSE
+313,78.32,78.32,TerraVita,Food|Beverages|Tea|Tea Bags,TRUE
+314,87.48,87.48,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+315,88.7,88.7,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+316,91.36,91.36,TerraVita,Health|Vitamins & Supplements|Letter Vitamins,TRUE
+317,93.99,93.99,HP,Electronics|Computers|Computer Accessories|Batteries & A,FALSE
+318,116.39,116.39,Vickerman,Party & Occasions|Christmas Trees & Holiday Decor|Christmas Trees|Christmas Trees by Style|Unlit Christmas Trees,FALSE
+319,126.96,126.96,TerraVita,Food|Beverages|Tea|Tea Bags,TRUE
+320,132.42,132.42,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+321,132.42,132.42,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+322,132.42,132.42,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+323,152.99,152.99,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+324,194.99,194.99,HP,Electronics|Computers|Laptops|Laptops By Brand|HP Laptops,FALSE
+325,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+326,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+327,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+328,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+329,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+330,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+331,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+332,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+333,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+334,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+335,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+336,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+337,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+338,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+339,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+340,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+341,209.95,209.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+342,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+343,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+344,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+345,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+346,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+347,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+348,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+349,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+350,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+351,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+352,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+353,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+354,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+355,209.99,209.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+356,228.17,228.17,HP,Electronics|Computers|Desktop Computers|Shop Desktops By Type|Desktop PC Towers Only,TRUE
+357,229.95,229.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+358,229.95,229.95,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+359,229.99,229.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+360,229.99,229.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+361,229.99,229.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+362,229.99,229.99,HMK,Auto & Tires|Motorcycle|Motorcycle Gear|Motorcycle Jackets,FALSE
+363,296.99,296.99,HP,Electronics|Computers|Laptops|Shop Laptops by Type|All Laptop Computers,FALSE
+364,344.91,344.91,HP,Electronics|Computers|Computer Components|Hard Drives & Storage,FALSE
+365,736,736,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+366,742.89,742.89,Vickerman,Party & Occasions|Christmas Trees & Christmas Decor|Christmas Trees|Christmas Trees by Color|Green Christmas Trees,TRUE
+367,755,755,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+368,770,770,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,TRUE
+369,783,783,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+370,825,825,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+371,830,830,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+372,872,872,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,TRUE
+373,881,881,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+374,894,894,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+375,913,913,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+376,919,919,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+377,984,984,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+378,997,997,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+379,1014,1014,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+380,1090,1090,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+381,1099,1099,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+382,1111.95,1111.95,HP,Electronics|Computers|Laptops|Shop Laptops by Type|Touchscreen Laptops,FALSE
+383,1119,1119,HP,Electronics|Computers|Laptops|Shop Laptops by Type|Touchscreen Laptops,FALSE
+384,1140,1140,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+385,1153,1153,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+386,1180,1180,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+387,1183,1183,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+388,1193,1193,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+389,1200,1200,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+390,1219,1219,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+391,1223,1223,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+392,1291,1291,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+393,1292,1292,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+394,1305,1305,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+395,1311,1311,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+396,1321,1321,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+397,1324,1324,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+398,1336,1336,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+399,1400,1400,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+400,1401,1401,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+401,1414,1414,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+402,1512,1512,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+403,1516,1516,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+404,1582,1582,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+405,1605,1605,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+406,1642,1642,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+407,1644,1644,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+408,1645,1645,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+409,1663,1663,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+410,1677,1677,HP,Electronics|Computers|Desktop Computers|Shop Desktops By Type|Refurbished Desktops,FALSE
+411,1683,1683,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+412,1713,1713,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+413,1713,1713,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+414,1713,1713,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+415,1722,1722,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+416,1743,1743,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+417,1803,1803,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+418,1833,1833,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+419,1833,1833,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+420,1853,1853,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+421,1853,1853,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+422,1864,1864,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+423,1884,1884,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+424,1894,1894,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+425,1904,1904,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+426,1904,1904,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+427,1914,1914,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+428,1934,1934,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+429,1944,1944,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+430,1964,1964,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+431,2054,2054,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+432,2105,2105,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+433,2155,2155,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+434,2215,2215,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+435,2255,2255,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+436,2296,2296,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+437,2306,2306,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+438,2386,2386,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+439,2446,2446,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+440,2487,2487,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+441,2527,2527,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+442,2537,2537,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+443,2597,2597,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,FALSE
+444,2775.74,2775.74,HP,Electronics|Computers|Laptops|Shop Laptops by Type|All Laptop Computers,FALSE
+445,2788,2788,HP,Electronics|Computers|Desktop Computers|Desktops By Brand|HP Desktop Computers,TRUE
